@@ -1,3 +1,4 @@
+# PYTHON_ARGCOMPLETE_OK
 """Entry point for lynx-staples."""
 
 from lynx_staples.cli import run_cli
