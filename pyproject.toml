@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name            = "lynx-investor-consumer-staples"
-version = "4.0"
+version = "4.0.1"
 description     = "Lynx Consumer Staples — Fundamental analysis specialized for food, beverage, household & personal-care defensive stocks"
 readme          = "README.md"
 requires-python = ">=3.10"
